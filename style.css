@@ -1,3 +1,22 @@
-/* *{
-    background-color: rgb(51, 50, 50);
+*{
+    font-family: 'Times New Roman', Times, serif;
+    /* background-color: rgb(56, 55, 55); */
+
+}
+
+/* .nav-style:not(*){
+    background-color: rgb(56, 55, 55);  
+} */
+
+/* .nav-style #special {
+    background-color: aliceblue;
+} */
+.home{
+    background-color: rgb(56, 55, 55);
+    height: 100%;
+    width: auto;
+}
+
+/* .body{
+    background-color: rgb(56, 55, 55);
 } */
